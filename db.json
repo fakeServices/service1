@@ -29,5 +29,67 @@
     "finalAuditReport":"false", 
     "reminderActionPlanClosure":"true",
     "actionPlanClosure": "true"}
+  ],
+  "auditeeKeyManagement": [
+    { 
+    "name": "Aneesh",
+    "tor": "true",
+    "discussionNotes": "false",
+    "finalizedActionPlans": "true",
+    "draftAuditReport": "true",
+    "finalAuditReport":"false", 
+    "reminderActionPlanClosure":"true",
+    "actionPlanClosure": "true"},
+    
+    { 
+    "name": "Bindu",
+    "tor": "true",
+    "discussionNotes": "false",
+    "finalizedActionPlans": "true",
+    "draftAuditReport": "true",
+    "finalAuditReport":"false", 
+    "reminderActionPlanClosure":"true",
+    "actionPlanClosure": "true"},
+    
+    { 
+    "name": "Devesh",
+    "tor": "true",
+    "discussionNotes": "false",
+    "finalizedActionPlans": "true",
+    "draftAuditReport": "true",
+    "finalAuditReport":"false", 
+    "reminderActionPlanClosure":"true",
+    "actionPlanClosure": "true"}
+  ],
+  "auditeeStakeholder": [
+    { 
+    "name": "Aneesh",
+    "tor": "true",
+    "discussionNotes": "false",
+    "finalizedActionPlans": "true",
+    "draftAuditReport": "true",
+    "finalAuditReport":"false", 
+    "reminderActionPlanClosure":"true",
+    "actionPlanClosure": "true"},
+    
+    { 
+    "name": "Bindu",
+    "tor": "true",
+    "discussionNotes": "false",
+    "finalizedActionPlans": "true",
+    "draftAuditReport": "true",
+    "finalAuditReport":"false", 
+    "reminderActionPlanClosure":"true",
+    "actionPlanClosure": "true"},
+    
+    { 
+    "name": "Devesh",
+    "tor": "true",
+    "discussionNotes": "false",
+    "finalizedActionPlans": "true",
+    "draftAuditReport": "true",
+    "finalAuditReport":"false", 
+    "reminderActionPlanClosure":"true",
+    "actionPlanClosure": "true"}
   ]
 }

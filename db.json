@@ -32,7 +32,7 @@
   ],
   "auditeeKeyManagement": [
     { 
-    "name": "Aneesh",
+    "name": "Abhishek",
     "tor": "true",
     "discussionNotes": "false",
     "finalizedActionPlans": "true",
@@ -42,7 +42,7 @@
     "actionPlanClosure": "true"},
     
     { 
-    "name": "Bindu",
+    "name": "SHyamu",
     "tor": "true",
     "discussionNotes": "false",
     "finalizedActionPlans": "true",
@@ -52,7 +52,7 @@
     "actionPlanClosure": "true"},
     
     { 
-    "name": "Devesh",
+    "name": "Manjot",
     "tor": "true",
     "discussionNotes": "false",
     "finalizedActionPlans": "true",
@@ -63,7 +63,7 @@
   ],
   "auditeeStakeholder": [
     { 
-    "name": "Aneesh",
+    "name": "Dinesh",
     "tor": "true",
     "discussionNotes": "false",
     "finalizedActionPlans": "true",
@@ -73,7 +73,7 @@
     "actionPlanClosure": "true"},
     
     { 
-    "name": "Bindu",
+    "name": "Manoj",
     "tor": "true",
     "discussionNotes": "false",
     "finalizedActionPlans": "true",
@@ -83,7 +83,7 @@
     "actionPlanClosure": "true"},
     
     { 
-    "name": "Devesh",
+    "name": "Ankit",
     "tor": "true",
     "discussionNotes": "false",
     "finalizedActionPlans": "true",

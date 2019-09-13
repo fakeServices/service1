@@ -2,15 +2,15 @@
   "ad": [
     { 
     "name": "Aneesh01",
-    "role": "auditeeSponsor",
+    "role": "auditeeSponsor"
     },
     { 
     "name": "Bindu",
-    "role": "auditeeKeyManagementTeam",
+    "role": "auditeeKeyManagementTeam"
     },
     { 
     "name": "Devesh",
-    "tor": "auditeeKeyStakeholders",
+    "tor": "auditeeKeyStakeholders"
     }
   ]
 }

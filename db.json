@@ -1,95 +1,16 @@
 {
-  "auditeeSponsor": [
+  "ad": [
     { 
     "name": "Aneesh",
-    "tor": "true",
-    "discussionNotes": "false",
-    "finalizedActionPlans": "true",
-    "draftAuditReport": "true",
-    "finalAuditReport":"false", 
-    "reminderActionPlanClosure":"true",
-    "actionPlanClosure": "true"},
-    
+    "role": "auditeeSponsor",
+    },
     { 
     "name": "Bindu",
-    "tor": "true",
-    "discussionNotes": "false",
-    "finalizedActionPlans": "true",
-    "draftAuditReport": "true",
-    "finalAuditReport":"false", 
-    "reminderActionPlanClosure":"true",
-    "actionPlanClosure": "true"},
-    
+    "role": "auditeeKeyManagementTeam",
+    },
     { 
     "name": "Devesh",
-    "tor": "true",
-    "discussionNotes": "false",
-    "finalizedActionPlans": "true",
-    "draftAuditReport": "true",
-    "finalAuditReport":"false", 
-    "reminderActionPlanClosure":"true",
-    "actionPlanClosure": "true"}
-  ],
-  "auditeeKeyManagement": [
-    { 
-    "name": "Abhishek",
-    "tor": "true",
-    "discussionNotes": "false",
-    "finalizedActionPlans": "true",
-    "draftAuditReport": "true",
-    "finalAuditReport":"false", 
-    "reminderActionPlanClosure":"true",
-    "actionPlanClosure": "true"},
-    
-    { 
-    "name": "SHyamu",
-    "tor": "true",
-    "discussionNotes": "false",
-    "finalizedActionPlans": "true",
-    "draftAuditReport": "true",
-    "finalAuditReport":"false", 
-    "reminderActionPlanClosure":"true",
-    "actionPlanClosure": "true"},
-    
-    { 
-    "name": "Manjot",
-    "tor": "true",
-    "discussionNotes": "false",
-    "finalizedActionPlans": "true",
-    "draftAuditReport": "true",
-    "finalAuditReport":"false", 
-    "reminderActionPlanClosure":"true",
-    "actionPlanClosure": "true"}
-  ],
-  "auditeeStakeholder": [
-    { 
-    "name": "Dinesh",
-    "tor": "true",
-    "discussionNotes": "false",
-    "finalizedActionPlans": "true",
-    "draftAuditReport": "true",
-    "finalAuditReport":"false", 
-    "reminderActionPlanClosure":"true",
-    "actionPlanClosure": "true"},
-    
-    { 
-    "name": "Manoj",
-    "tor": "true",
-    "discussionNotes": "false",
-    "finalizedActionPlans": "true",
-    "draftAuditReport": "true",
-    "finalAuditReport":"false", 
-    "reminderActionPlanClosure":"true",
-    "actionPlanClosure": "true"},
-    
-    { 
-    "name": "Ankit",
-    "tor": "true",
-    "discussionNotes": "false",
-    "finalizedActionPlans": "true",
-    "draftAuditReport": "true",
-    "finalAuditReport":"false", 
-    "reminderActionPlanClosure":"true",
-    "actionPlanClosure": "true"}
+    "tor": "auditeeKeyStakeholders",
+    }
   ]
 }

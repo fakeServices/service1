@@ -10,7 +10,7 @@
     },
     { 
     "name": "Devesh",
-    "tor": "auditeeKeyStakeholders"
+    "role": "auditeeKeyStakeholders"
     } 
   ]
 }

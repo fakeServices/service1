@@ -36,5 +36,23 @@
   "end_date": "13.06.2019",
   "rating": "1"
   }
+  ],
+  
+  "controls": [
+  {
+  "Risk_ID":"0089",
+  "Control_ID" : "00194"
+  "Description": "RR-review of security device"
+  },
+  {
+  "Risk_ID":"0089",
+  "Control_ID":"08965"
+  "Description": "RR-review of cash counters"
+  },
+  {
+  "Risk_ID":"0400",
+  "Control_ID":"01271"
+  "Description": "Risk recovery",
+  }
   ]
 }

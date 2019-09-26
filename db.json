@@ -16,25 +16,25 @@
   
   "risks": [
   {
-  "Risk_Id":"0089",
-  "Risk_Title": "Risk trend analysis",
-  "Valid_From": "20.08.2018",
-  "Valid_To": "15.09.2019",
-  "Risk_Rating": "2"
+  "risk_Id":"0089",
+  "risk_Title": "Risk trend analysis",
+  "valid_From": "20.08.2018",
+  "valid_To": "15.09.2019",
+  "risk_Rating": "2"
   },
   {
-  "Risk_Id":"0128",
-  "Risk_Title": "Risk study",
-  "Valid_From": "22.01.2017",
-  "Valid_To": "1.08.2019",
-  "Risk_Rating": "3"
+  "risk_Id":"0128",
+  "risk_Title": "Risk study",
+  "valid_From": "22.01.2017",
+  "valid_To": "1.08.2019",
+  "risk_Rating": "3"
   },
   {
-  "Risk_Id":"0480",
-  "Risk_Title": "Risk recovery",
-  "Valid_From": "2.02.2018",
-  "Valid_To": "13.06.2019",
-  "Risk_Rating": "1"
+  "risk_Id":"0480",
+  "risk_Title": "Risk recovery",
+  "valid_From": "2.02.2018",
+  "valid_To": "13.06.2019",
+  "risk_Rating": "1"
   }
   ], 
   
